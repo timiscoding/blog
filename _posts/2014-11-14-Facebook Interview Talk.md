@@ -8,9 +8,9 @@ Earlier this year, I attended a talk at UNSW given by a recent graduate who now 
 Interestingly, he remarked that there was a **vast difference in the coding interview performance between applicants from the _US and Australia_**.  Specifically, those from the states were markedly better while the Aussies were worse.  He attributed it to the fact that:
 
 - in the states, colleges offer courses that teach students how to crack the coding interview. They drum into them all the common questions that get asked so when it comes time for the real thing, they can almost recite answers from memory rather than problem solve.  Most if not all Australian universities don't offer such courses.
-- Aussies felt that it was kind of cheating to practice answering the same coding interview questions. 
+- Aussies felt that it was kind of cheating to practice answering the same coding interview questions.  
 
-### Interview process
+## Interview process
 The 3 main things the interview will focus on:
 
 1. Data structures & algs
@@ -22,14 +22,14 @@ The 3 main things the interview will focus on:
   * Personal impact - did it ship?
   * Languages - only put them in if comfortable talking about it in interview
 
-### Ways to get interview
+## Ways to get interview
 - get referral from someone in the company
 - participate in hackathons and network with those in industry
 
-### Phone interview
+## Phone interview
 - 35 min coding - document screen sharing 
 	
-### Coding interview
+## Coding interview
 - communicate in **plain english** about code.  
   Don't just stand there thinking to yourself quietly.  Interviewers are interested in **your thought process** on how you tackle the problem.
 - think about **engineering trade-offs (speed vs time)**
@@ -41,7 +41,7 @@ The 3 main things the interview will focus on:
 - when preparing, **implement not memorise**
 - know **computational complexity** (space and time tradeoffs)
 
-### During interview
+## During interview
 - ask lots of questions until you fully understand problem space and constraints
 - draw pictures
 - interviewers don't give hints so don't ask
@@ -63,7 +63,7 @@ The 3 main things the interview will focus on:
   - if n=4, create 4x4 array of no. spiralling to center
   - sol'n: notice pattern, four for loops each going in one direction for the outer loop, then recurse
 
-### Personal projects
+## Personal projects
 - they may ask about most recent, challenging, favourite project
 
 [1]:http://www.codechef.com/problems/TIC05
