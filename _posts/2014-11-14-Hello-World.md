@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Hello World
+categories: [misc]
+tags: [first post, first]
+date: 2014-11-14 10:30:00 +1000
 ---
 
 The main goals of this blog

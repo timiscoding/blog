@@ -1,7 +1,15 @@
 ---
 layout: post
 title: Preparing for the interview - tips from Facebook
+categories: [interview]
+tags: [facebook, interview]
+date: 2014-11-14 11:30:00 +1000
+excerpt: Earlier this year, I attended a talk at UNSW given by a recent graduate who now works at Facebook in the US.  He had some solid tips and advice to share and I found it to be a great insight into what I'd expect from the interviewing process from one of the most recognised brands in the industry.
 ---
+## Contents
+{:.no_toc}
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
 
 Earlier this year, I attended a talk at UNSW given by a recent graduate who now works at Facebook in the US.  He had some solid tips and advice to share and I found it to be a great insight into what I'd expect from the interviewing process from one of the most recognised brands in the industry.  
 

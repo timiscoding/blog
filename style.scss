@@ -51,12 +51,20 @@ h1 {
   }
 }
 
+article.post > h1 {
+  margin: 1em 0 0 0;  
+}
+
 h2 {  
   font-size: 20px;
 }
 
 h3 {  
   font-size: 18px;
+}
+
+h3.index {
+  margin: 1em 0 0 0;
 }
 
 h4 {  

@@ -34,7 +34,7 @@ footer-links:
 disqus: timiscodingblog
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 
+google_analytics: UA-56800104-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -52,7 +52,7 @@ baseurl: ""
 
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+#permalink: /:title/
 
 # The release of Jekyll Now that you're using
 version: v1.0.0
@@ -73,3 +73,6 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+paginate: 10
+paginate_path: "blog/page:num"
