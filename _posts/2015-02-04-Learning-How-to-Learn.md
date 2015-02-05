@@ -105,8 +105,7 @@ Some good learning strategies involve:
 
 ## Test taking - Hard-Start-Jump-to-Easy technique
 
-Traditionally, students have been taught to do the easy questions first then move onto the harder ones but from what we know now about the diffuse/focus mode, the better method is to start with the hard question and when you inevitably get stuck or feel like you're not on the right track, immediately switch to an easy question.  This allows your mind to enter diffuse mode while working on the easy questions so that when you go back to the tough question, you're more likely to gain a deeper insight.
-
+Traditionally, students have been taught to do the easy questions first then move onto the harder ones but from what we know now about the diffuse/focus mode, the better method is to start with the hard question and when you inevitably get stuck or feel like you're not on the right track, immediately switch to an easy question.  This allows your mind to enter diffuse mode while working on the easy questions so that when you go back to the tough question, you're more likely to gain a deeper insight.  
 
 By doing the easy then hard questions, what normally happens is you don't have enough time left to do the hard questions which not only puts extra stress but also forces you to enter a deepened focused mode which can lead to einstellung.  
 
