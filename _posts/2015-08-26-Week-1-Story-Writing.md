@@ -2,7 +2,7 @@
 layout: post
 title: LevelUp Build Week 1 - Story writing
 categories: [courses]
-tags: [learning]
+tags: [learning, levelup]
 date: 2015-08-26 21:30:00 +1000
 ---
 <style>
@@ -43,9 +43,9 @@ This weeks agenda:
 	<tr><th><b>Time</b></th><th colspan="2"><b>Activity</b></th></tr>
 	<tr><td>1800</td><td colspan="2">Arrival & Food</td></tr>
 	<tr><td>1815</td><td colspan="2">Story writing (ALL students)</td></tr>
-	<tr><td></td><td>Developers</td><td>BA & XD</td></tr>
-	<tr><td>1845</td><td>Development setup</td><td>Adv. story writing</td></tr>
-	<tr><td></td><td>TDD Session</td><td>Epic breakdown with PO's</td></tr>
+	<tr><td></td><th>Developers</th><th>BA & XD</th></tr>
+	<tr><td rowspan="2">1845</td><td>Development setup</td><td>Adv. story writing</td></tr>
+	<tr><td>TDD Session</td><td>Epic breakdown with PO's</td></tr>
 	<tr><td>2045</td><td colspan="2">RETROs (in teams)</td></tr>
 	<tr><td>2100</td><td colspan="2">Close and clean</td></tr>
 </table>
@@ -62,7 +62,7 @@ A story is a description of a feature that takes on the form
 **I want** _requirement_<br>
 **So that** _reason/ROI_<br>
 
-Eg. As a TechOps, I want to see a list of laptops with pictures next to them so that I can determine the condition for the laptop.  
+Eg. As a TechOps, I want to see a list of laptops with pictures next to them so that I can determine the condition for the laptop before making a bid.  
 
 After 5 minutes, every team was encouraged to share their stories to the rest of the group and we discussed whether some were more suited to being an epic - a broader story encompassing more than 1 self contained feature - and the granularity of the story - should the story specify that a database is used?  
 
@@ -80,31 +80,15 @@ The last activity for the night was _Epic breakdown with Product Owner_ and invo
 
 An epic is a large story that can be split into smaller stories.  At project inception, we start with information about the requirements that the product owner wants and as conversations go in depth about a particular story, more details surface.  
 
-For example: 
-
-<pre>As a Formula 1 game player, 
-I want an options screen 
-so that I can choose the driver I want to use.  </pre>
-
-Later on, another story emerges.  
-
-<pre>As a Formula 1 game player, 
-I want an image area of a driver 
-so that I can see the driver I want to use. </pre>
-
-This means the original story would become:
-
-<pre>As a Formula 1 game player, 
-I want an options _menu_ 
-so that I can choose the driver I want to use.</pre>
+For example, <b>As a Formula 1 game player, I want an options screen so that I can choose the driver I want to use.</b> Later on, another story emerges. <b>As a Formula 1 game player, I want an image area of a driver so that I can see the driver I want to use.</b> This means the original story would become: <b>As a Formula 1 game player, I want an options _menu_ so that I can choose the driver I want to use.</b>
 
 Our team decided the epics would be similar to the main menu items that were identified during storyboarding at the kick off event: 
 
-* Emergency - send a message to an emergency contact urgently
-* Services - health, councilling hotline
-* Distractions - pacman game, jokes
-* Settings - update user info
-* Discreetness - the watch does not reveal anything about alcohol addiction in it's default operating mode
+* <b>Emergency</b> - send a message to an emergency contact urgently
+* <b>Services</b> - health, councilling hotline
+* <b>Distractions</b> - pacman game, jokes
+* <b>Settings</b> - update user info
+* <b>Discreetness</b> - the watch does not reveal anything about alcohol addiction in it's default operating mode
 
 Each epic was further broken down into smaller stories as expanded upon above.
 
@@ -113,6 +97,6 @@ The PO prioritised these stories:
 * emergency contact
 * telling a joke
 * the watch face should not reveal alcohol addiction when the user is not interacting with it
-* a list of AA meetings within 20 km driving distance
+* a list of meetings/clinics within 20 km driving distance
 
-Once we had the acceptance criteria formulated, our first ever team project analysis was completed at 9pm.  And with that, we are now ready to liaise with the developers for them to begin work next week!  
+Once we had the acceptance criteria formulated, our first ever team project analysis was complete. 
