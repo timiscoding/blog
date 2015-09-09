@@ -74,7 +74,7 @@ Without a projector to see the slides, the coach taught us the basics on accepta
 **When** _trigger_<br>
 **Then** _outcome_
 
-Acceptance criteria can be categorised in three ways: the happy, alternate and sad path. The happy path specifies the traditional use case such as when a user logs into their bank account, a list of accounts appears.  An alternate path could be when the user logs in, no accounts are listed while a sad path is when the user logs in, an error message explains their account information couldn't be retrieved.  
+Acceptance criteria can be categorised in three ways: the happy, alternative and sad path. The happy path specifies the traditional use case such as when a user logs into their bank account, a list of accounts appears.  An alternative path could be when the user logs in, no accounts are listed while a sad path is when the user logs in, an error message explains their account information couldn't be retrieved.  
 
 The last activity for the night was _Epic breakdown with Product Owner_ and involved everyone going back to their respective teams to begin writing epics and acceptance criteria for their team project.  Joining us were the head coach, product owner Rujia and two floating coaches.  We found out Team Blue is now Team Ghost.  
 

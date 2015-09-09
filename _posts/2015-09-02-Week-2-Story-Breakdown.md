@@ -73,7 +73,7 @@ The next activity was wireframing and mapping out the user interface.  After bra
 
 For the rest of the evening, we drew mock ups for the default, home, services and jokes screen. 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/62Zxz"><a href="//imgur.com/a/62Zxz">LevelUp Build Wk 2</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<div style="text-align:center; width:100%"><blockquote class="imgur-embed-pub" lang="en" data-id="a/62Zxz"><a href="//imgur.com/a/62Zxz">LevelUp Build Wk 2</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
 To round out the end of the class, the developers joined us for a retrospective, writing on post-its what we did well, what needs improvement and any ideas/suggestions.  The group prioritised that our app needed a name and that there needs to be more free flow of ideas.  Gabe nominated that we all submit app name proposals on slack chat and Anna suggested we come up with a phrase/action to inspire better team cohesion.  Since we were team ghost, someone said we should all cheer 'wooooooh' so we gave it a shot but ended up sounding like an alarm running out of battery.  I guess we need more practice.
 
