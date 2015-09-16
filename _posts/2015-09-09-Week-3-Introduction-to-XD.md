@@ -86,14 +86,14 @@ For the remainder of the evening, I worked on wireframing the settings screen.  
 
 <div style="text-align:center; width:100%"><blockquote class="imgur-embed-pub" lang="en" data-id="a/pTXii"><a href="//imgur.com/a/pTXii">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
-<div style="text-align:center; width:100%"><iframe src="https://marvelapp.com/67754h?emb=1" width="318" height="390" allowTransparency="true" frameborder="0"></iframe></div>
-
 ## Retro
 We had a couple ideas thrown around for our app name including Snooze Booze, Drink free, Piss Off, Wagon and Fridays.  When we asked Rujia what she liked, she said she was happy for us to choose so we ended up choosing Fridays as one of the projects aims is for it to be discreet. 
 
 As tradition dictates, we ended the meeting with a 'wooOOOooo!!' cheer which initially, made Thomas concerned about our team's sanity as he didn't know the context, that we were team Ghost.      
 
 ## Prototyping Tools
+Most of these have a free feature stripped version available:
+
 * [Balsamiq][2] - paid Win/Mac/Web app
 * [Axure][3] - paid Win/Mac app
 * [Invision][4] - free web app
