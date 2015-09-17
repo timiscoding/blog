@@ -53,7 +53,7 @@ This weeks agenda:
 Monica lead the team meeting today. When a project is underway, it is best to start from the end of the story wall and work backwards because it lets the team see where the project is currently at and what needs to be accomplished. Andrew voiced concern over a story he was working on and Ray said he still can't push to the repo because of insufficient privileges. The devs huddled to discuss technical issues.
 
 ## Graduate recruitment 
-Everyone gathered into the meeting room to learn about ThoughtWork's graduate program. ThoughtsWorks is a consulting software company that solves tough problems for other companies from a wide range of industries including retail, banking and education. You might have seen the tv ads for the Dominos pizza smartphone app that lets you watch in realtime the location of your pizza as it gets delivered. 
+Everyone gathered into the meeting room to learn about ThoughtWork's graduate program. ThoughtsWorks is a consulting software company that solves tough problems for other companies from a wide range of industries including retail, banking and education. You might have heard of [Domino's partnership with ThoughtWorks][1] in launching a platform for creating your own pizza, promoting it on social media and earning some dough.
 
 As a consulting company, they hire developers, BAs, XDs, QA testers but the work you do isn't limited to the scope of your title. In fact, a lot of the time you will be 'wearing different hats', as Adam pointed out, meaning you'll be working across many different areas, perhaps doing a little coding, testing and analysis. As a result, you need to have a flexible mindset and not be afraid to work with new technologies that you're unfamiliar with. This is a lot different than working in a tech company whose primary business is in making software applications. In these jobs, you're more likely to be coding primarily in one language like C/C++. 
 
@@ -120,5 +120,7 @@ Keep it up!:
 
 WooOOOOooo!!
 
-## References:
-[^1]: [quote 109](http://topfamousquotes.com/quotes-about-website/3/)
+## References
+[^1]:[Quote 109 - Steve Job's colour anecdote](http://topfamousquotes.com/quotes-about-website/3/)
+
+[1]:https://www.thoughtworks.com/clients/dominos
