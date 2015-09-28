@@ -77,7 +77,13 @@ I conducted the same user testing interview with QA tester Cherry but this time,
 
 Meanwhile, Andrew was ready to do a shoulder/desk check after implementing the screen for showing the closest 3 services available to Allen. We went through the acceptance criteria (AC) one by one and found that one was difficult to implement. If the GPS is not working, a hotline number should be displayed. Since we don't have a way to enable/disable the GPS, we decided to make the app alternate between GPS on and off states to simulate the AC.  
 
-<div style="text-align:center; width:100%"><iframe src="https://marvelapp.com/jccf87?emb=1" width="220" height="240" allowTransparency="true" frameborder="0"></iframe></div>
+<table><tr><td><div style="text-align:center; width:100%"><iframe src="https://marvelapp.com/jccf87?emb=1" width="220" height="240" allowTransparency="true" frameborder="0"></iframe></div></td></tr>
+<tr><td><b>Version 2. Settings navigation and button mapping mock up.</b></td></tr>
+</table>
+<br>
+<table><tr><td><div style="text-align:center; width:100%"><iframe src="https://marvelapp.com/jj9dih?emb=1" width="275" height="467" allowTransparency="true" frameborder="0"></iframe></div></td></tr>
+<tr><td><b>Version 3. Navigation + colour scheme mock up.</b>  Input elements are black text on a white background with a black border.  When an input element has focus, a purple border appears inside it.  Since the background for all screens will be one of the colours of the home screen, the colour for the focus border needs to contrast well.  Currently, it doesn't stand out as I had planned so maybe the border needs to be bigger than 2 pixels or the entire background of the button needs to be purple. Purple was chosen using the <a href="https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=3&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.5795501484870387,1,0.41775500991845893,0.91,0.7343552852765709,0.19914806737559984,1,0.3662216792330757,0.237045481928164,0.7537783831549758,0.48888358875497384,0.91,0.47284548831936046,0.780088788916392,1&swatchOrder=0,1,2,3,4">Adobe Color wheel</a>.  On the Emergency Contact screen, the words "Emergency Contact" have a white outline to contrast with the background colour. The mobile phone icon lets the user know to enter a mobile number.</td></tr>
+</table>
 
 ## RETROs
 
@@ -87,3 +93,5 @@ To improve:
 * Need to move faster. Devs need to read AC more closely.
 
 WoooOOOOooo out
+
+[1]:http://www.google.com

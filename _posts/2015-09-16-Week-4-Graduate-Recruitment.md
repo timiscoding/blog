@@ -65,7 +65,7 @@ We were told to maximise our opportunity here, to get to learn more about the co
 
 The Q & A session afterwards revealed that ThoughtWorks values passion, personal projects and how well your personality fits into their company. Course marks aren't important. They told us they don't even look at them. Some current employees don't have a university degree. 
 
-Finally, Thomas, the TW XD from last week, mentioned that the XDs will be given a user testing class next week and to come prepared with a project feature they want to test. 
+Finally, Marcus, the TW XD from last week, mentioned that the XDs will be given a user testing class next week and to come prepared with a project feature they want to test. 
 
 ## Team Work
 One of the problems the devs found whilst coding last week was that we were missing a story for the home screen so Sean worked on it. 
