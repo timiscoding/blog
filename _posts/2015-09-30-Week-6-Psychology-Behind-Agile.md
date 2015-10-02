@@ -60,7 +60,9 @@ ThoughtWorks consultant, Fabio Pereira, talked about the cognitive psychology be
 We were asked to answer this riddle as quickly as possible. A bat and ball cost $1.10. Given the bat costs $1 more than the ball, how much is the ball? Fabio explained that every time he's asked the question, the audience fails to get the right answer. Making elementary mistakes like these are the reason why red-green-refactor testing have become an industry standard practice.    
 
 Take a look at the following:
-<div style="text-align:center; width:100%"><iframe width="420" height="315" src="https://www.youtube.com/embed/vJG698U2Mvo" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+<div style="text-align:center; width:100%"><iframe width="420" height="315" src="https://www.youtube.com/embed/vJG698U2Mvo" frameborder="0" allowfullscreen></iframe></div>
+
 Inattentional blindness is when we miss something important because we weren't paying attention. Important emails go unnoticed because they were buried underneath boring messages. We were told about a team whose CI failed build tests had gone undetected for weeks simply because no one was actively monitoring it.  Missing vital information is what's known as refrigerators. How long has that mustard been in there? The antidote is called a radiator and works by drawing attention to itself. This could be a big screen tv with big red writing when the CI build fails and green when it succeeds.
 
 The next experiment involved a person pretending to be passed out in a street in direct view of passers by and to observe how quickly people assisted when they were by themselves and when others were around. What they found was that the people who were by themselves called for help much quicker than those in a group. When people are in a group, they tend to think someone else has helped or will help. This diffusion of responsibility happens in any team and is why we have retros. Action items are assigned to specific members so that someone is held accountable and are followed up if they haven't been actioned. 
