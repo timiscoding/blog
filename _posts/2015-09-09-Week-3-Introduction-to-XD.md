@@ -4,6 +4,7 @@ title: LevelUp Build Week 3 - Introduction to XD
 categories: [courses]
 tags: [learning, levelup]
 date: 2015-09-09 15:30:00 +1000
+excerpt: We were given a short presentation by an experience design (XD) ThoughtWorker who spoke about the role he plays in a project.  Experience design is a multidisciplinary profession that includes product strategy, research, interaction design and visual (graphic) design.
 ---
 <style>
 
@@ -55,7 +56,7 @@ This weeks agenda:
 Today's standup was lead by Gabe who told us the devs learnt about Backbone, a javascript library based on the Model-View-Presenter pattern and designed for developing single page web applications.  Since project development hasn't started, we didn't have much to say except for what we did last week.
 
 ## Introduction to XD
-We were given a short presentation by an experience design (XD) ThoughtWorker who spoke about the role he plays in a project.  Experience design is a multidisciplinary profession that includes product strategy, research, interaction design and visual (graphic) design.  People skilled in frontend developemnt or psychology can become experience designers.
+We were given a short presentation by an experience design (XD) ThoughtWorker who spoke about the role he plays in a project.  Experience design is a multidisciplinary profession that includes product strategy, research, interaction design and visual (graphic) design.  People skilled in frontend development or psychology can become experience designers.
 
 The purpose of XD is to be the voice of the owner - what does the client want?  For example, when a customer visits a Woolworth's supermarket in Sydney, the eggs might be in isle 1.  When they go into a Woolworth's in Lane Cove, the customer should expect the eggs to be in a similar location.  Consistency in your product not only makes it user friendly, it ensures the user has a great experience so they know exactly where and how to find things without getting lost.  XD think about the different user types such as placement of stock on the top shelf shouldn't hinder a disabled customer from buying that product.
 
@@ -103,6 +104,10 @@ Most of these have a free feature stripped version available:
 * [Adobe Illustrator][8] - paid Win/Mac app
 * [Adobe Photoshop][9] - paid Win/Mac app
 * [Marvel][1] - paid web app
+
+## Slide deck
+
+[Experience Design](https://drive.google.com/file/d/0B6JIIawp8JvsSE5LLWVicFFXNTQ/view?usp=sharing)
 
 [1]:https://marvelapp.com/
 [2]:https://balsamiq.com/

@@ -4,6 +4,7 @@ title: LevelUp Build Week 4 - Graduate recruitment
 categories: [courses]
 tags: [learning, levelup]
 date: 2015-09-16 10:30:00 +1000
+excerpt: Everyone gathered into the meeting room to learn about ThoughtWork's graduate program. ThoughtsWorks is a consulting software company that solves tough problems for other companies from a wide range of industries including retail, banking and education.
 ---
 <style>
 

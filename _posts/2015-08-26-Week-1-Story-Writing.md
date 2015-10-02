@@ -4,6 +4,7 @@ title: LevelUp Build Week 1 - Story writing
 categories: [courses]
 tags: [learning, levelup]
 date: 2015-08-26 21:30:00 +1000
+excerpt: We were asked to split into teams of 3 consisting of at least one dev and a business analyst (BA) or experience designer (XD) and given 5 x 3 inch cards, to write stories that would fulfil some of the TechOps requirements. 
 ---
 <style>
 
@@ -100,3 +101,8 @@ The PO prioritised these stories:
 * a list of meetings/clinics within 20 km driving distance
 
 Once we had the acceptance criteria formulated, our first ever team project analysis was complete. 
+
+## Slide decks
+
+* [Pair programming](https://drive.google.com/file/d/0B6JIIawp8JvsOTdGR3BWNGJxdlU/view?usp=sharing)
+* [User Story Writing](https://drive.google.com/file/d/0B6JIIawp8JvsX1RLNnFtVThCZnM/view?usp=sharing)

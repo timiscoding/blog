@@ -4,6 +4,7 @@ title: LevelUp Build Week 2 - Story breakdown
 categories: [courses]
 tags: [learning, levelup]
 date: 2015-09-02 12:30:00 +1000
+excerpt: Afterwards, all the BAs and XDs met in the kitchen area to discuss one story with a ThoughtWorks BA.  Our team chose As Allen, I want to send a message to an emergency contact so that I can immediately get the help that I need to stop drinking.
 ---
 <style>
 
@@ -77,3 +78,6 @@ For the rest of the evening, we drew mock ups for the default, home, services an
 
 To round out the end of the class, the developers joined us for a retrospective, writing on post-its what we did well, what needs improvement and any ideas/suggestions.  The group prioritised that our app needed a name and that there needs to be more free flow of ideas.  Gabe nominated that we all submit app name proposals on slack chat and Anna suggested we come up with a phrase/action to inspire better team cohesion.  Since we were team ghost, someone said we should all cheer 'wooooooh' so we gave it a shot but ended up sounding like an alarm running out of battery.  I guess we need more practice.
 
+## Slide decks
+* [Continuous Integration](https://drive.google.com/file/d/0B6JIIawp8JvsZnd1X3FsZm5pX3c/view?usp=sharing)
+* [Creating a watch page](https://drive.google.com/file/d/0B6JIIawp8JvseUJGbkMtUXI0b1U/view?usp=sharing)

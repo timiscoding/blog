@@ -4,6 +4,7 @@ title: LevelUp Build Week 5 - User Testing
 categories: [courses]
 tags: [learning, levelup]
 date: 2015-09-23 10:30:00 +1000
+excerpt: We covered one type of user testing whose purpose is to get a sense of what users are feeling when they are using your application. XD's typically delegate user selection to a recruiter and give them a list of criteria each user must satisfy.
 ---
 <style>
 
@@ -93,5 +94,3 @@ To improve:
 * Need to move faster. Devs need to read AC more closely.
 
 WoooOOOOooo out
-
-[1]:http://www.google.com
