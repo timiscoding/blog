@@ -90,6 +90,8 @@ Then it was our turn. Gabe introduced the problem statement and started off stro
 
 Team Orange created an app for people living off the streets and built a messaging system to easily get informational content like weather as well as event notifications such as food shelters. 
 
+<img src="http://i.imgur.com/cOIXjYd.jpg"/>
+
 ## Final thoughts
 
 I had followed the levelup facebook page after I had heard about them from the CS uni society. When registration for LevelUp Build popped up on my feed a couple months ago, I had mixed feelings of joining as on one hand, I wanted to learn Agile and participate in a project that simulated a real life working scenario, yet on the other hand, I wasn't confident in my abilities, that I'd be able to perform or keep up with the team. 
