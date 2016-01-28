@@ -78,4 +78,4 @@ exclude:
     - README.md
 
 paginate: 10
-paginate_path: "blog/page:num"
+paginate_path: "/blog/page:num/"
