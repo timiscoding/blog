@@ -81,65 +81,6 @@ td{
 	color: white;
 }
 
-.timeline{
-	list-style: none;
-	padding: 0;
-	margin: 30px 0 0 0;
-	position: relative; /* set to non-static value to draw vertical timeline in right place */
-}
-
-.timeline a{
-	text-decoration: none;
-}
-
-.timeline:before{ /* draw vertical line for timeline */
-	content: '';
-	position: absolute; /* draw relative to first non-static ancestor. ie. .timeline */
-	top: 0;
-	bottom: 0;
-	width: 10px;
-	background: lightblue;
-	left: 20%; /* move line past timeline date */
-
-}
-
-.time{ /* timeline date, thing on the left of line*/
-	display: block;
-	width: 21%;
-	font-size: 1.2em;
-	color: green;
-	background: lightblue;
-	font-weight: bold;
-	margin: 20px 0 0 0;
-	padding: 5px;
-	border-top-left-radius: 5px;
-	border-bottom-left-radius: 5px;
-}
-
-.about_label { /* timeline label, thing to the right of line */
-	background: lightblue;
-	position: relative;
-	border-radius: 5px;
-	padding: 5px;
-	margin: 0 0 15px 25%;
-	display: inline-block; /* container wraps as wide as content */
-	border: 1px solid lightblue;
-/*	max-width: 75%;
-	word-wrap: break-word;*/
-}
-
-.about_label:after{ /* draw triangle for timeline label */
-	right: 100%;
-	border: solid transparent;
-	content: "";
-	height: 0;
-	width: 0;
-	position: absolute;
-	border-right-color: lightblue;
-	border-width: 10px;
-	top: 5px;
-}
-
 #top{ /* back to top button */
 	bottom: 5px;
 	position: fixed;
@@ -163,8 +104,6 @@ td{
 			<ul>
 				<li><a href="#about">Who am I?</a></li>
 				<li><a href="#trivia">Trivia</a></li>
-				<li><a href="#education">Education</a></li>
-				<li><a href="#experience">Experience</a></li>
 			</ul>
 		</header>
 		<div id="content">
@@ -178,54 +117,12 @@ td{
 			<article id="trivia" class="about_article">
 				<h2>Trivia</h2>
 				<ul>
-					<li>Favourite movies: Avengers: Age of Ultron, Whiplash, Nightcrawler, The Grey, The Imitation Game, Interstellar</li>
-					<li>Favourite TV shows: Breaking Bad, Suits, Star Trek: TNG, Louie</li>
+					<li>Favourite TV shows: Frasier, Breaking Bad, Suits, Star Trek: TNG, Louie</li>
 					<li>Reading: Performing Under Pressure, Code: The Hidden Language of Computer Hardware and Software</li>
 					<li>Music: learning Going the Distance. My previous recordings are on <a href="https://soundcloud.com/timtee-1">soundcloud</a>. I listen to whatever's on Triple J.</li>
 					<li>Sports: I hit the gym to maintain health and build strength.</li>
 					<li>Toastmasters: Currently starting competent communicator projects. Table topics *shudders*</li>
 					<li>I worked at a vegetable farm in Japan and had the best time.</li>
-					<li>Dogs over cats</li>
-					<li>Warm weather over cold</li>
-				</ul>
-
-			</article>
-			<article id="education" class="about_article">
-				<h2>Education</h2>
-				<ul class="timeline">
-					<li>
-						<span class="time">Jul 2013 - Nov 2014</span>
-						<div class="about_label"><b>Diploma in IT, USYD</b><br>Algorithms, Digital media fundamentals, Object oriented design, Advanced data models, Web development fundamentals, web application frameworks</div>
-					</li>
-					<li>
-						<span class="time">Feb 2012 - Jul 2013</span>
-						<div class="about_label"><b>Certificate in Computing, UNSW</b><br>Principles in computing, Data structures, Software construction, Networking, Discrete math</div>
-					</li>
-					<li>
-						<span class="time">2008</span>
-						<div class="about_label"><b>Bachelor of Engineering (Electrical), USYD</b></div>
-					</li>
-				</ul>
-			</article>
-			<article id="experience" class="about_article">
-				<h2>Experience</h2>
-				<ul class="timeline">
-					<li>
-						<span class="time">Aug 2011 - Feb 2012</span>
-						<div class="about_label"><b>Hardware engineer intern</b> at <a href="https://www.thalesgroup.com/en/homepage/australia">Thales</a><ul><li>support the Hardware Engineering team with the design and integration of a PC based computer system within a simulator</li><li>technical drawing</li><li>benchmarking, testing, documentation</li><li>cabling and system design tasks</li></ul></div>
-					</li>
-					<li>
-						<span class="time">Nov 2010 - Jul 2011</span>
-						<div class="about_label"><b>Technical support analyst</b> at <a href="http://www.dell.com.au/">Dell</a><ul><li>Diagnose and resolve technical issues in the delivery of consistent superior customer experience for the Australia and New Zealand region for corporate, government and end users</li><li>fault analysis over phone, logging parts, scheduling technician dispatch</li></ul></div>
-					</li>
-					<li>
-						<span class="time">May 2010 - Oct 2010</span>
-						<div class="about_label"><b>After-sales support</b> at <a href="https://www.medion.com/au/">Medion</a><ul><li>Providing support over a wide consumer electronics product range primarily via phone and webmail to customers nationwide</li><li>Troubleshoot problems for PCs, laptops, DVD players, TVs, GPS, phones</li></ul></div>
-					</li>
-					<li>
-						<span class="time">Nov 2008 - Aug 2009</span>
-						<div class="about_label"><b>Support engineer</b> at <a href="https://www.3ivx.com/">3ivx Technologies</a><ul><li>Quality assurance testing of 3ivx codec filter suite components on multiple platforms (Windows, Mac OS X, BeOS)</li><li>testing (mostly manual)</li><li>testing and manual documentation for hardware/software</li></ul></div>
-					</li>
 				</ul>
 			</article>
 		</div>
